@@ -1,0 +1,9 @@
+{
+    "files": [
+        {
+            "title": "Wiki Home",
+            "navbar": true,
+            "path": "index.html"
+        }
+    ]
+}
