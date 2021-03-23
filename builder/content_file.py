@@ -13,7 +13,20 @@ class ContentFile:
 
     input_path: pathlib.Path
     content: str = None
-    options: dict[str, Any] = dataclasses.field(default_factory=dict)
+    _options: dict[str, Any] = None
+
+    @property
+    def options(self) -> dict[str, Any]:
+        """Get this file's metadata, initialising if needed."""
+        if not self._options:
+            title = self.input_path.stem.title().replace('_', ' ')
+            self._options = {'title': title, 'navbar': False}
+        return self._options
+
+    @options.setter
+    def options(self, new_options: dict[str, Any]):
+        """Overwrite the file's metadata."""
+        self._options = new_options
 
     def read_input(self):
         """Load the source of the document."""
