@@ -1,6 +1,11 @@
 {
     "files": [
         {
+            "title": "Markdown Test",
+            "navbar": false,
+            "path": "md_test.html"
+        },
+        {
             "title": "Wiki Home",
             "navbar": true,
             "path": "index.html"
