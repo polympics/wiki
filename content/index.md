@@ -3,4 +3,5 @@
 
 # Welcome to the Polympics Wiki
 
-There's nothing here just yet.
+Events:
+- [Co-op Monument Rush](events/monument-rush)
