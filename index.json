@@ -1,14 +1,19 @@
 {
     "files": [
         {
+            "title": "Wiki Home",
+            "navbar": true,
+            "path": "index.html"
+        },
+        {
             "title": "Markdown Test",
             "navbar": false,
             "path": "md_test.html"
         },
         {
-            "title": "Wiki Home",
-            "navbar": true,
-            "path": "index.html"
+            "title": "Co-op Monument Rush",
+            "navbar": false,
+            "path": "events/monument-rush.html"
         }
     ]
 }
