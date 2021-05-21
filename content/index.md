@@ -18,13 +18,13 @@ Players register through the Polympics website and join a team based on national
 
 ## Events:
 - [Co-op Monument Rush](events/monument-rush)
-- [1v1 might] (events/1v1 might)
-- [2v2 team marathon] (events/2v2 team marathon)
-- [FFA relay]  (events/FFA relay)
-- [1v1 bullet] (events/1v1 bullet)
-- [1v1 glory/ Wicked Bender]  (events/1v1 glory- Wicked Bender)
-- [Art contest](events/Art contest)
-- [Skyscraper](events/Skyscraper)
-- [Perfect 10 ](events/Perfect 10)
-- [Apocalypse (1v3)](events/Apocalypse (1v3)
+- [1v1 Might](events/1v1-might)
+- [2v2 Team Marathon](events/2v2-team-marathon)
+- [FFA Relay](events/ffa-relay)
+- [1v1 Bullet](events/1v1-bullet)
+- [1v1 Glory/Wicked Bender](events/1v1-glory-wicked-bender)
+- [Art Contest](events/art-contest)
+- [Skyscraper](events/skyscraper)
+- [Perfect 10](events/perfect-10)
+- [Apocalypse (1v3)](events/apocalypse-1v3)
   
