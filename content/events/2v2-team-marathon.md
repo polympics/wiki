@@ -10,7 +10,8 @@ The 2v2 marathon a Polympics event in which two players from the same compete to
 - Winning counts as defeating the opposing team, either with a victory screen or playing against only bot oppenents. 
 - Might. 24 hour turns.
 - Polypmics time out rules. Penalty points for time outs -- see sudden death period below.
-- 6 points per team. 
+- No restarts.
+- 6 points per team per match.
 
 ### v-45 tribe tier list. 6 points per team per match.
 - 5: C 
