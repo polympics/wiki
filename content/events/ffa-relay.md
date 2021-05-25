@@ -12,6 +12,7 @@ The FFA relay is a free for all (FFA) series of matches where the top half of pl
 - Mirror tribes pre-set by commissioners. (Free tribes so anyone can participate)
 - Normal size map. 24 hour turns.
 - Polympics time out rules
+- No restarts
 
 ## Notes
 - One entry per team; a different competitor plays in each match.
