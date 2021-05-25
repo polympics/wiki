@@ -19,6 +19,11 @@
             "title": "1v1 Might",
             "navbar": false,
             "path": "events/1v1-might.html"
+        },
+        {
+            "title": "FFA Relay",
+            "navbar": false,
+            "path": "events/ffa-relay.html"
         }
     ]
 }
