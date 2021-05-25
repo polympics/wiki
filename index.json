@@ -11,6 +11,11 @@
             "path": "md_test.html"
         },
         {
+            "title": "2v2 Team Marathon",
+            "navbar": false,
+            "path": "events/2v2-team-marathon.html"
+        },
+        {
             "title": "Co-op Monument Rush",
             "navbar": false,
             "path": "events/monument-rush.html"
