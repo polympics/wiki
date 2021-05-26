@@ -18,7 +18,7 @@ Teams of up to 12 players will be formed based on nationality (or region in the 
 
 There are ten event contests, each having a set of commissioners (moderators).  All of the commissioners together are Polympic Committee. Commissioners will decide the rules for each event and moderate them.
 
-Players register through the Polympics website and join a team based on nationality. Participants will need a discord account. Teams will send players to compete in events. Some events allow multiple entries per team, others are limited to one representative (or pair of representatives) per team. See event rules for more details. Some events are mobile only while others allow for Steam or mobile users.
+Players register through the Polympics website, become a member of the Polympics discord server, and join a team based on nationality. Participants will need a discord account. Teams will send players to compete in events. Some events allow multiple entries per team, others are limited to one representative (or pair of representatives) per team. See event rules for more details. Some events are mobile only while others allow for Steam or mobile users.
 
 ## Events:
 - [Co-op Monument Rush](events/monument-rush)
