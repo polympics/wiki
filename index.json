@@ -21,6 +21,11 @@
             "path": "events/monument-rush.html"
         },
         {
+            "title": "Skyscraper",
+            "navbar": false,
+            "path": "events/skyscraper.html"
+        },
+        {
             "title": "1v1 Might",
             "navbar": false,
             "path": "events/1v1-might.html"
