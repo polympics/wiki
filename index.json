@@ -21,6 +21,11 @@
             "path": "events/monument-rush.html"
         },
         {
+            "title": "Perfect 10",
+            "navbar": false,
+            "path": "events/perfect-10.html"
+        },
+        {
             "title": "Skyscraper",
             "navbar": false,
             "path": "events/skyscraper.html"
