@@ -39,6 +39,11 @@
             "title": "FFA Relay",
             "navbar": false,
             "path": "events/ffa-relay.html"
+        },
+        {
+            "title": "1v1 Bullet",
+            "navbar": false,
+            "path": "events/1v1-bullet.html"
         }
     ]
 }
