@@ -1,9 +1,9 @@
 @title discord
 @navbar
 
-# Polympics discord server
+## [Polympics Discord Server](https://discord.gg/kJG7eM4hDG)
 
-https://discord.gg/kJG7eM4hDG
+The official home of the event. Join to start chatting with fellow participants and team members!
 
 ## [Official Polytopia Discord Server](https://discord.gg/polytopia)
 
