@@ -17,5 +17,5 @@ Players will be divided into brackets to play 1v1 fast matches, streamed live, w
 ## Notes
 
 - Teams may send multiple competitors to this event
-- Mobile only
+- Mobile polytopia required, but may be played on steam if both players in a match have it.
 - Brackets will depend on how many competitors sign up and their respective time zones.
