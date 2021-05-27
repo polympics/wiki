@@ -18,5 +18,4 @@ Players will be divided into brackets to play 1v1 fast matches, streamed live, w
 
 - Teams may send multiple competitors to this event
 - Mobile only
-- Time and date to be determined. 
 - Brackets will depend on how many competitors sign up and their respective time zones.
