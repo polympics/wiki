@@ -5,9 +5,9 @@
 
 https://discord.gg/kJG7eM4hDG
 
-# Offciala Battle of Polytopia main discord server
+## [Official Polytopia Discord Server](https://discord.gg/polytopia)
 
-https://discord.gg/polytopia
+The official Discord server for The Battle of Polytopia.
 
 ## Note
 
