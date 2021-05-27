@@ -8,7 +8,7 @@ Players will be divided into brackets to play 1v1 fast matches, streamed live, w
 
 - Single elimination (no loser bracket).
 - All matches will take place on tiny drylands maps.
-- All participants must be in a VC channel - hop into one of the bullet tourney VC channels as soon as your game starts.  Players must stream their screen into the VC. (It is recommended to turn on Do Not Disturb to stop potentially private messages popping up in the stream)
+- All participants must be in a VC channel - hop into one of the bullet tourney VC channels as soon as your game starts. Players must stream their screen.
 - 2 minutes allowed per turn.
 - Hard cap of 40 minutes per match. The winner of a match will be decided based on capitals owned, and then score.
 - Tribes will be assigned to each round. 
