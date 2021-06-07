@@ -2,19 +2,18 @@
 
 # 2v2 Team Marathon
 
-The 2v2 marathon a Polympics event in which two players from the same compete together against another team of two players. This will be a round robin event structured by division. Teams are placed in divisions of 4 pairs. The top winner of each division plays in the finals.
+The 2v2 marathon a Polympics event in which two players from the same compete together against another team of two players. This will be a round robin event structured by division. Teams are placed in divisions of 4 pairs. Number of teams in the finals will depend on the number of teams that sent players to compete.
 
 ## The rules
 
-- Each team will play three 2v2 matchs agains opponents in their division.
+- Each team will play three 2v2 matchs against opponents in their division.  The top winner of each division plays in the finals.
 - Winning counts as defeating the opposing team, either with a victory screen or playing against only bot oppenents. 
 - Might. 24 hour turns.
 - Polypmics time out rules. Penalty points for time outs -- see sudden death period below.
 - One t2 restart per team (restart must be requested before the last player on the teams third turn).
-- 6 points per team per match.
+- 5 points per team per match.
 
-### v-45 tribe tier list. 6 points per team per match.
-- 5: C 
+### v-45 tribe tier list. 5 points per team per match.
 - 4: ZKB 
 - 3: EYLI 
 - 2: PAiQX 
@@ -28,7 +27,11 @@ The 2v2 marathon a Polympics event in which two players from the same compete to
 
 ## Notes
 
-- Only one entry (pair of players) per team
+- Only one entry (pair of players) per team.
+- Players 24 hours to exchange friend requests and host the game. Hosts must start the match within 24 hours. 
+- Players must settribe by the end of t0.
+- Any failure to send FR, start a game within 24 hours, $settribe by the end of t0, or otherwise not comply with the rules is subject to removal from the event at commissioner discretion.
 - No bots are allowed.
-- Mobile only
+- Cymanti banned.
+- Mobile only.
 
