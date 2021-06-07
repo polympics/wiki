@@ -6,6 +6,11 @@
             "path": "discord.html"
         },
         {
+            "title": "Events",
+            "navbar": true,
+            "path": "events.html"
+        },
+        {
             "title": "Wiki Home",
             "navbar": true,
             "path": "index.html"
