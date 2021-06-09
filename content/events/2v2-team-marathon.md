@@ -6,7 +6,7 @@ The 2v2 marathon a Polympics event in which two players from the same compete to
 
 ## The rules
 
-- Each team will play three 2v2 matchs against opponents in their division.  The top winner of each division plays in the finals.
+- Each team will play three 2v2 matchs against opponents in their division. The top winner of each division plays in the finals.
 - Winning counts as defeating the opposing team, either with a victory screen or playing against only bot oppenents. 
 - Might. 24 hour turns.
 - Polypmics time out rules. Penalty points for time outs -- see sudden death period below.
@@ -34,4 +34,3 @@ The 2v2 marathon a Polympics event in which two players from the same compete to
 - No bots are allowed.
 - Cymanti banned.
 - Mobile only.
-
