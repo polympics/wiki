@@ -9,19 +9,21 @@ Divisions of up to 6 players, each playing one 1v1 match, once as host and once 
 - Each competitor will play two 1v1 might matches vs the other players in their division, once as host/home and once as away
 - In the event of a tie (drawn), best two of three 1v1 matches as a run off
 - Polympics time out rules
-- Medium/regular map size. Might. 24 hour turns
-- v45 Tribe tier list. Host choses map type and tribe tier -- see tribe tier list below
+- Medium or large map size. Might. 24 hour turns
+- Host choses map type; Waterworld and archipelagos maps are banned
+- Friend requests must be exchanged within 24 hours of match assignments
+- v45 Tribe tier list - tribe tiers will be assigned for each division. (Host should disable banned tribes)
 - One t2 restart per player per match
 
 ### v-45 tribe tier list
-- 1: C 
-- 2: ZKB 
-- 3: EYLI 
-- 4: PAiQX 
+- 1: ZKB 
+- 2: EYLI 
+- 3: PAiQX 
 
 ## Notes
 
 - Teams may send multiple competitors to this event
+- Cymanti ban
 - No bots are allowed
 - Mobile only
-
+- If players fail to exchange FR, start the match within 24 hours, or otherwise follow the rules, they may be removed from the event at commissioner discretion
