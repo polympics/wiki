@@ -19,7 +19,6 @@ Divisions of up to 6 players, each playing one 1v1 match, once as host and once 
 - Tier 2: EYLI 
 - Tier 3: PAiQX 
 - Tier 4: VHAqO
- 
 ## Notes
 
 - Teams may send multiple competitors to this event
