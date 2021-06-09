@@ -27,4 +27,4 @@ Divisions of up to 6 players, each playing one 1v1 match, once as host and once 
 - Mobile only
 - Hosts should disable all banned tribes before sending game invite
 - Friend requests should be exchanged and games started within 24 hours of match assignments
-- Failure to exchance friend requests, start matches, or otherwise follow the rules are grounds for removal from the event at commissioner discretion
+- Failure to exchange friend requests, start matches, or otherwise follow the rules are grounds for removal from the event at commissioner discretion
