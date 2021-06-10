@@ -6,18 +6,21 @@ The 2v2 marathon a Polympics event in which two players from the same compete to
 
 ## The rules
 
-- Each team will play three 2v2 matchs agains opponents in their division.
+- Each team will play three 2v2 matchs agains opponents in their division
 - Winning counts as defeating the opposing team, either with a victory screen or playing against only bot oppenents. 
-- Might. 24 hour turns.
-- Polypmics time out rules. Penalty points for time outs -- see sudden death period below.
-- One t2 restart per team (restart must be requested before the last player on the teams third turn).
-- 6 points per team per match.
+- Might, 24 hour turns
+- Players must settribe by the end of t0
+- Players 24 hours to exchange friend requests and host the game. Hosts must start the match within 24 hours
+- Polypmics time out rules. Penalty points for time outs -- see sudden death period below
+- One t2 restart per team (restart must be requested before the last player on the teams third turn)
+- 5 points per team per match
 
-### v-45 tribe tier list. 6 points per team per match.
-- 5: C 
-- 4: ZKB 
-- 3: EYLI 
-- 2: PAiQX 
+### v-45 tribe tier list. 5 points per team per match.
+
+- 4 points: ZKB 
+- 3 points : EYLI 
+- 2 points : PAiQX 
+- 1 point: VHAqO
 
 ## Sudden death
 
@@ -29,6 +32,8 @@ The 2v2 marathon a Polympics event in which two players from the same compete to
 ## Notes
 
 - Only one entry (pair of players) per team
-- No bots are allowed.
+- No bots are allowed
+- Cymanti banned
 - Mobile only
+- Any failure to send FR, start a game within 24 hours, $settribe by the end of t0, or otherwise not comply with the rules is subject to removal from the event at commissioner discretion
 
