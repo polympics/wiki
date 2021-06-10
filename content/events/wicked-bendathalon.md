@@ -9,7 +9,7 @@ A pair of opponents play a set of two 1v1 games, both on Tiny maps in Glory mode
 ### Acceptable Tribes ###
 Imperius, Xin-xi, Oumaji, Zebasi, Hoodrick, Quetzali, Aimo, and Yaddak
 
-### Map settings ###
+### Map settings
 Tiny map size only. Acceptable map types are Continents, Lakes, Drylands and Archipelago and is chosen at players discretion. Default is Continents.
 
 ### Battleships banned
