@@ -24,7 +24,7 @@ Breaking the limitations on battleships or giants is penalized with 1000 points 
 ## Restart Rules ##
 There are three types of restarts.
 
-### Proximity ### 
+### Proximity
 You and your opponent have only one tile between the border of your capitals.
 
 ### Isolation ### 
