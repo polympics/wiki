@@ -27,7 +27,7 @@ There are three types of restarts.
 ### Proximity
 You and your opponent have only one tile between the border of your capitals.
 
-### Isolation ### 
+### Isolation
 You need to buy a tech to reach a second village (typically sailing or climbing) or the nearest village without a tech buy is five or more squares away from your capital. Single tiles along edges don’t have to be scouted to claim isolation restart. However, exploring these tiles and revealing a village in range will forfeit the restart option.
 
 ### Barren ### 
