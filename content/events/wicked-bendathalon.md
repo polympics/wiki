@@ -6,7 +6,7 @@ A pair of opponents play a set of two 1v1 games, both on Tiny maps in Glory mode
 
 ## The rules
 
-### Acceptable Tribes ###
+### Acceptable Tribes
 Imperius, Xin-xi, Oumaji, Zebasi, Hoodrick, Quetzali, Aimo, and Yaddak
 
 ### Map settings
