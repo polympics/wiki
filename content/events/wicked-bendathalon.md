@@ -21,7 +21,7 @@ Giants can only be used defensively. They cannot move or attack into enemy terri
 ### Penalties ### 
 Breaking the limitations on battleships or giants is penalized with 1000 points per unit and turn. Penalties can drop your point score below the minimum 3000.
 
-## Restart Rules ##
+## Restart Rules
 There are three types of restarts.
 
 ### Proximity
