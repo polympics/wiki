@@ -41,6 +41,11 @@
             "path": "events/skyscraper.html"
         },
         {
+            "title": "1v1 Wicked Bendathlon",
+            "navbar": false,
+            "path": "events/wicked-bendathalon.html"
+        },
+        {
             "title": "1v1 Might",
             "navbar": false,
             "path": "events/1v1-might.html"
