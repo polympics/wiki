@@ -18,7 +18,7 @@ Battleships are banned. If you accidentally create one or get one from a ruins, 
 ### Giants ###
 Giants can only be used defensively. They cannot move or attack into enemy territory, siege/conquer cities or be made into ships. You may make a giant into a boat, but it is still restricted to only moving and attacking in your territory and no-mans-land. If a border expands over your giant, you have to immediately move it out of enemy territory or disband it, though you will not be penalized.
 
-### Penalties ### 
+### Penalties
 Breaking the limitations on battleships or giants is penalized with 1000 points per unit and turn. Penalties can drop your point score below the minimum 3000.
 
 ## Restart Rules
