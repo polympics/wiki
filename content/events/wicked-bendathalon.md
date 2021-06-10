@@ -1,6 +1,6 @@
-@title 1v1 Wicked Bender
+@title 1v1 Wicked Bendathlon
 
-# 1v1 Wicked Bender (aka Glory Wicked-Bender, aka Wicked Bendathalon)
+# 1v1 Wicked Bendathlon
 
 A pair of opponents play a set of two 1v1 games, both on Tiny maps in Glory mode. Players take turns playing matching tribes. Each player hosts one of the games, usually with the weaker tribe. Cumulative total is decided by sets per team similar points to team games.  Winner will be decided by score leaderboard or finals round play off in the case of more than one player getting above 20k (two wins).
 
