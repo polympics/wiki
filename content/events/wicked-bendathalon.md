@@ -12,7 +12,7 @@ Imperius, Xin-xi, Oumaji, Zebasi, Hoodrick, Quetzali, Aimo, and Yaddak
 ### Map settings ###
 Tiny map size only. Acceptable map types are Continents, Lakes, Drylands and Archipelago and is chosen at players discretion. Default is Continents.
 
-### Battleships banned ###
+### Battleships banned
 Battleships are banned. If you accidentally create one or get one from a ruins, you must land it within your own territory and may not use it to explore. Failure to disband the battleship, using it to fire on an enemy or scouting with it will incur a penalty.
 
 ### Giants
