@@ -15,7 +15,7 @@ Tiny map size only. Acceptable map types are Continents, Lakes, Drylands and Arc
 ### Battleships banned ###
 Battleships are banned. If you accidentally create one or get one from a ruins, you must land it within your own territory and may not use it to explore. Failure to disband the battleship, using it to fire on an enemy or scouting with it will incur a penalty.
 
-### Giants ###
+### Giants
 Giants can only be used defensively. They cannot move or attack into enemy territory, siege/conquer cities or be made into ships. You may make a giant into a boat, but it is still restricted to only moving and attacking in your territory and no-mans-land. If a border expands over your giant, you have to immediately move it out of enemy territory or disband it, though you will not be penalized.
 
 ### Penalties
