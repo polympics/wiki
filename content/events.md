@@ -12,7 +12,7 @@ Players register through the Polympics website, become a member of the Polympics
 - [2v2 Team Marathon](events/2v2-team-marathon)
 - [FFA Relay](events/ffa-relay)
 - [1v1 Bullet](events/1v1-bullet)
-- [1v1 Glory/Wicked Bender](events/1v1-glory-wicked-bender)
+- [Wicked Bendathlon](events/wicked-bendathalon)
 - [Art Contest](events/art-contest)
 - [Skyscraper](events/skyscraper)
 - [Perfect 10](events/perfect-10)
