@@ -1,19 +1,9 @@
 {
     "files": [
         {
-            "title": "discord",
-            "navbar": true,
-            "path": "discord.html"
-        },
-        {
             "title": "Events",
             "navbar": true,
             "path": "events.html"
-        },
-        {
-            "title": "Wiki Home",
-            "navbar": true,
-            "path": "index.html"
         },
         {
             "title": "Markdown Test",
@@ -21,19 +11,14 @@
             "path": "md_test.html"
         },
         {
-            "title": "2v2 Team Marathon",
-            "navbar": false,
-            "path": "events/2v2-team-marathon.html"
+            "title": "discord",
+            "navbar": true,
+            "path": "discord.html"
         },
         {
-            "title": "Co-op Monument Rush",
-            "navbar": false,
-            "path": "events/monument-rush.html"
-        },
-        {
-            "title": "Perfect 10",
-            "navbar": false,
-            "path": "events/perfect-10.html"
+            "title": "Wiki Home",
+            "navbar": true,
+            "path": "index.html"
         },
         {
             "title": "Skyscraper",
@@ -41,9 +26,14 @@
             "path": "events/skyscraper.html"
         },
         {
-            "title": "1v1 Wicked Bendathlon",
+            "title": "FFA Relay",
             "navbar": false,
-            "path": "events/wicked-bendathalon.html"
+            "path": "events/ffa-relay.html"
+        },
+        {
+            "title": "2v2 Team Marathon",
+            "navbar": false,
+            "path": "events/2v2-team-marathon.html"
         },
         {
             "title": "1v1 Might",
@@ -51,14 +41,24 @@
             "path": "events/1v1-might.html"
         },
         {
-            "title": "FFA Relay",
+            "title": "Perfect 10",
             "navbar": false,
-            "path": "events/ffa-relay.html"
+            "path": "events/perfect-10.html"
+        },
+        {
+            "title": "1v1 Wicked Bendathlon",
+            "navbar": false,
+            "path": "events/wicked-bendathalon.html"
         },
         {
             "title": "1v1 Bullet",
             "navbar": false,
             "path": "events/1v1-bullet.html"
+        },
+        {
+            "title": "Co-op Monument Rush",
+            "navbar": false,
+            "path": "events/monument-rush.html"
         }
     ]
 }
