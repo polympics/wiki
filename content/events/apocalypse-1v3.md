@@ -28,7 +28,7 @@ If the host chooses Cymanti, but not all the opponents have that tribe, the host
 - Teams must send three competitors to this event in order to participate
 - Mobile only
 - Matches will be assigned by directors 
-- In order to receive points on the leader board, players must provide a screenshot of their last surviving turn 
+- In order to receive points on the leaderboard, players must provide a screenshot of their last surviving turn 
 - If players fail to exchange FR within 24 hours of game assignment, start the match within 24 hours, or otherwise follow the rules, they may be removed from the event at commissioner discretion
 
 
