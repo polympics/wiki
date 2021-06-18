@@ -2,7 +2,7 @@
 
 # FFA Relay
 
-The FFA relay is a free for all (FFA) series of matches where the top half of players for each match move on to subsequent rounds until only 4 players are left. 
+The FFA relay is a free for all (FFA) series of matches where the top half of players for each match move on to subsequent rounds until only 4 players are left. Matches will be assigned by directors.
 
 ## The rules
 - Series of 8-> 6-> 4 player FFA matches. (Exact bracket sizes will be determined once the number of teams are known)
@@ -10,7 +10,7 @@ The FFA relay is a free for all (FFA) series of matches where the top half of pl
 - Teams must place a different player in each FFA match. 
 - Final match will be 4 players, with Gold/Silver/Bronze determined by the order the players are knocked out. 
 - Mirror tribes pre-set by commissioners. (Free tribes so anyone can participate)
-- Normal size map. 24 hour turns.
+- Normal size map. 24 hour turns. Drylands only.
 - Polympics time out rules
 - No restarts
 
