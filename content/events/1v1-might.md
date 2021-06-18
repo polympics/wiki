@@ -2,7 +2,7 @@
 
 # 1v1 might
 
-Divisions of up to 6 players, each playing one 1v1 match, once as host and once as away. The top two players from each division will move up to the finals with the same format. 
+Divisions of up to 6 players, each playing one 1v1 match, once as host and once as away. The top two players from each division will move up to the finals with the same format. Matches will be assigned by directors and annouced in the event podium channel on Discord.
 
 ## The rules
 
@@ -10,7 +10,7 @@ Divisions of up to 6 players, each playing one 1v1 match, once as host and once 
 - In the event of a tie (drawn), best two of three 1v1 matches as a run off
 - Polympics time out rules
 - Medium or large map size. Might. 24 hour turns
-- Host choses map type; Waterworld and archipelagos maps are banned
+- Host choses map type; waterworld and archipelagos maps are banned
 - Friend requests must be exchanged within 24 hours of match assignments
 - v45 Tribe tier list - tribe tiers will be assigned for each division. (Host should disable banned tribes)
 - One t2 restart per player per match
@@ -23,6 +23,7 @@ Divisions of up to 6 players, each playing one 1v1 match, once as host and once 
 ## Notes
 
 - Teams may send multiple competitors to this event
+- Victory conditions: victory screen or opponent is a bot
 - Cymanti ban
 - No bots are allowed
 - Mobile only
