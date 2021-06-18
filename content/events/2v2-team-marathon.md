@@ -2,7 +2,7 @@
 
 # 2v2 Team Marathon
 
-The 2v2 marathon a Polympics event in which two players from the same compete together against another team of two players. This will be a round robin event structured by division. Teams are placed in divisions of 4 pairs. The top winner of each division plays in the finals.
+The 2v2 marathon a Polympics event in which two players from the same compete together against another team of two players. This will be a round robin event structured by division. Teams are placed in divisions of 4 pairs. Matches will be assigned by directors with details posted in the event podium channel on Discord. The top winner of each division plays in the finals.
 
 ## The rules
 
@@ -35,5 +35,6 @@ The 2v2 marathon a Polympics event in which two players from the same compete to
 - No bots are allowed
 - Cymanti banned
 - Mobile only
+- Victory conditions: victory screen or both members of opponent’s team are bots
 - Any failure to send FR, start a game within 24 hours, $settribe by the end of t0, or otherwise not comply with the rules is subject to removal from the event at commissioner discretion
 
