@@ -56,6 +56,11 @@
             "path": "events/wicked-bendathalon.html"
         },
         {
+            "title": "Art Contest",
+            "navbar": false,
+            "path": "events/art-contest.html"
+        },
+        {
             "title": "1v1 Bullet",
             "navbar": false,
             "path": "events/1v1-bullet.html"
