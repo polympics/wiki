@@ -15,11 +15,11 @@ Divisions of up to 6 players, each playing one 1v1 match, once as host and once 
 - v45 Tribe tier list - tribe tiers will be assigned for each division. (Host should disable banned tribes)
 - One t2 restart per player per match
 
-### v-45 tribe tier list
-- 1: ZKB 
-- 2: EYLI 
-- 3: PAiQX 
-- 4: VHAqO
+### Tribe tier list
+- 1: Zebasi, Kickoo, Bardur
+- 2: Elyrion, Yadakk, Luxidoor, Imperius
+- 3: Polaris, Ai-Mo, Queztali, Xin-xi
+- 4: Vengir, Hoodrick, Aqqurion, Oumaji
 
 ## Notes
 
