@@ -31,6 +31,11 @@
             "path": "events/ffa-relay.html"
         },
         {
+            "title": "Apocalype (1v3)",
+            "navbar": false,
+            "path": "events/apocalypse-1v3.html"
+        },
+        {
             "title": "2v2 Team Marathon",
             "navbar": false,
             "path": "events/2v2-team-marathon.html"
