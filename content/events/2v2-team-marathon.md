@@ -15,12 +15,12 @@ The 2v2 marathon a Polympics event in which two players from the same compete to
 - One t2 restart per team (restart must be requested before the last player on the teams third turn)
 - 5 points per team per match
 
-### v-45 tribe tier list. 5 points per team per match.
+### Tribe tier list. 5 points per team per match.
 
-- 4 points: ZKB 
-- 3 points : EYLI 
-- 2 points : PAiQX 
-- 1 point: VHAqO
+- 4 points: Zebasi, Kickoo, Bardur
+- 3 points: Elyrion, Yadakk, Luxidoor, Imperius
+- 2 points :Polaris, Ai-Mo, Queztali, Xin-xi
+- 1 point: Vengir, Hoodrick, Aqqurion, Oumaji
 
 ## Sudden death
 
