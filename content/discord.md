@@ -11,4 +11,4 @@ The official Discord server for The Battle of Polytopia.
 
 ## Note
 
-To register for the event please [/login](login).
+To register for the event please [login](/login).
