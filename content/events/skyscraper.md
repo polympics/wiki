@@ -11,9 +11,9 @@ Single player game challenge to make a level 10 city as fast as possible.
 - Creative mode & Nature Bunny banned 
 - Your score is your total number of turns (+3 for every difficulty below Crazy). 
 - Lowest score wins. 
-- Screenshots required: The city info pop-up and Game Stats screen on the turn you completed the challenge."
+- Screenshots required: The city info pop-up and Game Stats screen on the turn you completed the challenge.
 
 ## Notes
 - Teams may send multiple competitors to this event
 - Mobile or Steam 
-- Must be a new submission (screenshot required showing game completed after opening day)
+- Post your submission with a required screehshot in the submssion chanel 
