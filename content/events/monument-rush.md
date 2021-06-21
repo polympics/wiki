@@ -15,6 +15,5 @@ The Co-op Monument Rush is a Polympics event in which two players work together 
 
 - One entry per team.
 - No bots are allowed.
-- Steam or mobile is allowed.
-
-> TBD: Deadline, tiebreakers.
+- Steam or mobile is allowed
+- Post your submission with a screehshot showing the entire map, monuments, and turn in the submssion chanel 
