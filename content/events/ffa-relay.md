@@ -4,6 +4,8 @@
 
 The FFA relay is a free for all (FFA) series of matches where the top half of players for each match move on to subsequent rounds until only 4 players are left. Matches will be assigned by directors.
 
+![FFA Relay poster](/images/ffa_relay.png)
+
 ## The rules
 - Series of 8-> 6-> 4 player FFA matches. (Exact bracket sizes will be determined once the number of teams are known)
 - The top half of each game advances to the next round. Games end immediately after half the players are conquered. 
