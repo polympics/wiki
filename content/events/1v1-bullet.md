@@ -4,6 +4,8 @@
 
 Players will be divided into brackets to play 1v1 fast matches, streamed live, with two minute time limits. All matches played in one sitting. Single elimination so winners play winners. 
 
+![Bullet Poster](/images/bullet.png)
+
 ## The rules
 
 - Single elimination (no loser bracket).
