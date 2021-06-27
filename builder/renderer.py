@@ -117,9 +117,10 @@ def parse_directive(file: ContentFile, raw: str):
 def compile(file: ContentFile):
     """Compile a source file to HTML and directives."""
     parser = Parser()
-    ast = parser.parse(file.content)
+    ast = parser.parse(file.content.decode())
     renderer = HtmlRenderer()
     renderer.cms_directives = []
-    file.content = renderer.render(ast)
+    file.content = renderer.render(ast).encode()
+    file.path = file.path.with_suffix('.html')
     for directive in renderer.cms_directives:
         parse_directive(file, directive)

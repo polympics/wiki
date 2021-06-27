@@ -11,15 +11,15 @@ from .config import IN_DIR, OUT_DIR
 class ContentFile:
     """A content file and parsing metadata."""
 
-    input_path: pathlib.Path
-    content: str = None
+    path: pathlib.Path
+    content: bytes = None
     _options: dict[str, Any] = None
 
     @property
     def options(self) -> dict[str, Any]:
         """Get this file's metadata, initialising if needed."""
         if not self._options:
-            title = self.input_path.stem.title().replace('_', ' ')
+            title = self.path.stem.title().replace('_', ' ')
             self._options = {'title': title, 'navbar': False}
         return self._options
 
@@ -30,19 +30,13 @@ class ContentFile:
 
     def read_input(self):
         """Load the source of the document."""
-        with open(self.input_path) as file:
+        with open(IN_DIR / self.path, 'rb') as file:
             self.content = file.read()
 
     def write_output(self):
         """Write the content to the output path."""
-        rel_path = str(self.input_path.relative_to(IN_DIR))
-        out_path = OUT_DIR / rel_path
-        out_dir = out_path.parent
-        out_path = str(out_path)
-        if out_path.lower().endswith('.md'):
-            out_path = out_path[:-3] + '.html'
-            rel_path = rel_path[:-3] + '.html'
-        self.options['path'] = rel_path
-        os.makedirs(out_dir, exist_ok=True)
-        with open(out_path, 'w') as file:
+        out_path = OUT_DIR / self.path
+        self.options['path'] = str(self.path)
+        os.makedirs(out_path.parent, exist_ok=True)
+        with open(out_path, 'wb') as file:
             file.write(self.content)

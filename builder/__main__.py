@@ -11,9 +11,10 @@ from .renderer import compile
 
 def compile_file(in_path: pathlib.Path) -> dict[str, Any]:
     """Compile a single file and return its metadata."""
-    file = ContentFile(in_path)
+    file = ContentFile(in_path.relative_to(IN_DIR))
     file.read_input()
-    compile(file)
+    if in_path.suffix == '.md':
+        compile(file)
     file.write_output()
     return file.options
 
