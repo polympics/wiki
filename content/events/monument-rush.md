@@ -4,6 +4,8 @@
 
 The Co-op Monument Rush is a Polympics event in which two players work together to get all 7 monuments as quickly as possible.
 
+![Monument Rush poster](https://polympics.github.io/wiki/images/monument_rush.png)
+
 ## The rules
 
 - All 7 monuments should be built and owned by one player.
