@@ -4,6 +4,8 @@
 
 The 2v2 marathon a Polympics event in which two players from the same compete together against another team of two players. This will be a round robin event structured by division. Teams are placed in divisions of 4 pairs. Divisions and matches will be assigned by directors with details posted in the event podium channel on Discord. The top winner of each division plays in the finals.
 
+![2v2 Team Marathon poster](https://polympics.github.io/wiki/images/2v2_team_marathon.png)
+
 ## The Rules
 
 - Each team will play three 2v2 matchs agains opponents in their division
