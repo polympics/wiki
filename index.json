@@ -6,11 +6,6 @@
             "path": "events.html"
         },
         {
-            "title": "Markdown Test",
-            "navbar": false,
-            "path": "md_test.html"
-        },
-        {
             "title": "discord",
             "navbar": true,
             "path": "discord.html"
@@ -69,6 +64,41 @@
             "title": "Co-op Monument Rush",
             "navbar": false,
             "path": "events/monument-rush.html"
+        },
+        {
+            "title": "1V1 Might",
+            "navbar": false,
+            "path": "images/1v1_might.png"
+        },
+        {
+            "title": "Bullet",
+            "navbar": false,
+            "path": "images/bullet.png"
+        },
+        {
+            "title": "Perfect 10",
+            "navbar": false,
+            "path": "images/perfect_10.png"
+        },
+        {
+            "title": "Monument Rush",
+            "navbar": false,
+            "path": "images/monument_rush.png"
+        },
+        {
+            "title": "2V2 Team Marathon",
+            "navbar": false,
+            "path": "images/2v2_team_marathon.png"
+        },
+        {
+            "title": "Ffa Relay",
+            "navbar": false,
+            "path": "images/ffa_relay.png"
+        },
+        {
+            "title": "Wicked Bender",
+            "navbar": false,
+            "path": "images/wicked_bender.png"
         }
     ]
 }
