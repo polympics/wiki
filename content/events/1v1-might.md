@@ -4,6 +4,8 @@
 
 Divisions of up to 6 players, each playing one 1v1 match, once as host and once as away. The top two players from each division will move up to the finals with the same format. Matches will be assigned by directors and annouced in the event podium channel on Discord.
 
+![1v1 might poster](https://polympics.github.io/wiki/images/1v1_might.png) 
+
 ## The rules
 
 - Each competitor will play two 1v1 might matches vs the other players in their division, once as host/home and once as away
