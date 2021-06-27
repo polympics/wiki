@@ -9,6 +9,8 @@
 * Compete in a variety of Polytopia events (single player, multiplayer, multiplayer team, and art)
 * Award medals for the top three winners and a nitro prize for 1st place in each event
 
+![Polymipcs poster](https://polympics.github.io/wiki/images/polympics_poster.png)
+
 ## The Main Idea
 The summer Polympics is a multi-event Polytopia tournament inspired by the Olympics. Teams of up to 12 players will be formed based on nationality (or region in the case of very large nations like the US). Teams will send players to participate in a variety of event contests (single player, multiplayer, multiplayer team, and even art events). Medals will be assigned for each event and the team with the most medals will win the overall tournament.
 
