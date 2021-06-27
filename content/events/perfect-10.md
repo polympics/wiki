@@ -1,10 +1,10 @@
 @title Perfect 10
 
-# 1v1 Perfect 10
+# Perfect 10
 
 Goal: Have the highest sars per turn (SPT) by turn 10. 
 
-![GitHub Logo](/images/perfect_10.png)
+![Perfect 10 poster](https://polympics.github.io/wiki/images/perfect_10.png)
 
 ## Rules
 - Creative, Domination, at least 3 AI, any difficulty, Nature Bunny banned
