@@ -66,9 +66,19 @@
             "path": "events/monument-rush.html"
         },
         {
+            "title": "Polympics Poster",
+            "navbar": false,
+            "path": "images/polympics_poster.png"
+        },
+        {
             "title": "1V1 Might",
             "navbar": false,
             "path": "images/1v1_might.png"
+        },
+        {
+            "title": "Polympics Poster Dark",
+            "navbar": false,
+            "path": "images/polympics_poster_dark.png"
         },
         {
             "title": "Bullet",
@@ -79,6 +89,11 @@
             "title": "Perfect 10",
             "navbar": false,
             "path": "images/perfect_10.png"
+        },
+        {
+            "title": "Logo",
+            "navbar": false,
+            "path": "images/logo.png"
         },
         {
             "title": "Monument Rush",
