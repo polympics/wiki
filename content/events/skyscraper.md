@@ -4,6 +4,8 @@
 
 Single player game challenge to make a level 10 city as fast as possible.
 
+![Skyscaper poster](https://polympics.github.io/wiki/images/skyscraper.png)
+
 ## Rules
 
 - Make a Level 10 city in the fewest number of turns. 
