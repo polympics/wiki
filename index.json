@@ -71,9 +71,29 @@
             "path": "images/polympics_poster.png"
         },
         {
+            "title": "Art Poster",
+            "navbar": false,
+            "path": "images/art_poster.png"
+        },
+        {
+            "title": "Skyscraper",
+            "navbar": false,
+            "path": "images/skyscraper.png"
+        },
+        {
             "title": "1V1 Might",
             "navbar": false,
             "path": "images/1v1_might.png"
+        },
+        {
+            "title": "Apocalypse Poster",
+            "navbar": false,
+            "path": "images/apocalypse_poster.png"
+        },
+        {
+            "title": "1V1 Might V2",
+            "navbar": false,
+            "path": "images/1v1_might_v2.png"
         },
         {
             "title": "Polympics Poster Dark",
