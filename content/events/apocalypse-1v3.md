@@ -1,8 +1,10 @@
-@title Apocalyspe (1v3)
+@title Apocalypse (1v3)
 
-# Apocalyspe (1v3)
+# Apocalypse (1v3)
 
 Teams send one squad of three players to compete in a series of 1v3 matches. Each player will play once as the host (solo) vs a squad of three players from another team (zombies). Players earn points for their team equal to the number of turns they survive as the solo. Team points will be tallied on a leaderboard with the top three teams getting medals.
+
+![Bullet poster](https://polympics.github.io/wiki/images/apocalypse_poster.png)
 
 ## The Rules
 
