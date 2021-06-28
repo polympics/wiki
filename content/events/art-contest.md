@@ -4,7 +4,7 @@
 
 To celebrate the spirit of Polytopia and the Olympics, we invite fan artists to express their creativity in the media type they prefer. Entries will be submitted confidentially to the art directors. Then, all the art entries will be presented anonymously and in a random order, in a google form to allow all Polypmics members to vote and rank their favorites. The top three art entry with the highest ranking in the votes will earn gold, silver, and bronze medals
 
-![Bullet poster](https://polympics.github.io/wiki/images/art_poster.png)
+![Art poster](https://polympics.github.io/wiki/images/art_poster.png)
 
 ## The rules
 
