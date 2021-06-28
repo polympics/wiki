@@ -1,6 +1,6 @@
-@title Apocalype (1v3)
+@title Apocalyspe (1v3)
 
-# Apocalype (1v3)
+# Apocalyspe (1v3)
 
 Teams send one squad of three players to compete in a series of 1v3 matches. Each player will play once as the host (solo) vs a squad of three players from another team (zombies). Players earn points for their team equal to the number of turns they survive as the solo. Team points will be tallied on a leaderboard with the top three teams getting medals.
 
@@ -15,11 +15,11 @@ Teams send one squad of three players to compete in a series of 1v3 matches. Eac
 
 ### Tribe Tiers
 
-Tier 1: C
-Tier 2: ZKB 
-Tier 3: EYLI 
-Tier 4: PAiQX 
-Tier 5: VHAqO
+Tier 1: Cymanti
+Tier 2: Zebasi, Kickoo, Bardur 
+Tier 3: Elyrion, Yadakk, Luxidoor, Imperius 
+Tier 4: Polaris, Ai-Mo, Queztali, Xin-xi 
+Tier 5: Vengir, Hoodrick, Aqqurion, Oumaji
 
 If the host chooses Cymanti, but not all the opponents have that tribe, the host must pick a different tribe tier
 
