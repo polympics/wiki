@@ -1,9 +1,9 @@
 {
     "files": [
         {
-            "title": "Events",
+            "title": "Wiki Home",
             "navbar": true,
-            "path": "events.html"
+            "path": "index.html"
         },
         {
             "title": "discord",
@@ -11,14 +11,79 @@
             "path": "discord.html"
         },
         {
-            "title": "Wiki Home",
+            "title": "Events",
             "navbar": true,
-            "path": "index.html"
+            "path": "events.html"
+        },
+        {
+            "title": "1V1 Might V2",
+            "navbar": false,
+            "path": "images/1v1_might_v2.png"
+        },
+        {
+            "title": "Monument Rush",
+            "navbar": false,
+            "path": "images/monument_rush.png"
         },
         {
             "title": "Skyscraper",
             "navbar": false,
-            "path": "events/skyscraper.html"
+            "path": "images/skyscraper.png"
+        },
+        {
+            "title": "2V2 Team Marathon",
+            "navbar": false,
+            "path": "images/2v2_team_marathon.png"
+        },
+        {
+            "title": "Logo",
+            "navbar": false,
+            "path": "images/logo.png"
+        },
+        {
+            "title": "Bullet",
+            "navbar": false,
+            "path": "images/bullet.png"
+        },
+        {
+            "title": "Apocalypse Poster",
+            "navbar": false,
+            "path": "images/apocalypse_poster.png"
+        },
+        {
+            "title": "Wicked Bender",
+            "navbar": false,
+            "path": "images/wicked_bender.png"
+        },
+        {
+            "title": "Polympics Poster",
+            "navbar": false,
+            "path": "images/polympics_poster.png"
+        },
+        {
+            "title": "Polympics Poster Dark",
+            "navbar": false,
+            "path": "images/polympics_poster_dark.png"
+        },
+        {
+            "title": "Perfect 10",
+            "navbar": false,
+            "path": "images/perfect_10.png"
+        },
+        {
+            "title": "Art Poster",
+            "navbar": false,
+            "path": "images/art_poster.png"
+        },
+        {
+            "title": "Ffa Relay",
+            "navbar": false,
+            "path": "images/ffa_relay.png"
+        },
+        {
+            "title": "1V1 Might",
+            "navbar": false,
+            "path": "images/1v1_might.png"
         },
         {
             "title": "FFA Relay",
@@ -26,9 +91,24 @@
             "path": "events/ffa-relay.html"
         },
         {
+            "title": "Skyscraper",
+            "navbar": false,
+            "path": "events/skyscraper.html"
+        },
+        {
             "title": "Apocalypse (1v3)",
             "navbar": false,
             "path": "events/apocalypse-1v3.html"
+        },
+        {
+            "title": "Art Contest",
+            "navbar": false,
+            "path": "events/art-contest.html"
+        },
+        {
+            "title": "1v1 Wicked Bendathlon",
+            "navbar": false,
+            "path": "events/wicked-bendathalon.html"
         },
         {
             "title": "2v2 Team Marathon",
@@ -41,19 +121,9 @@
             "path": "events/1v1-might.html"
         },
         {
-            "title": "Perfect 10",
+            "title": "Co-op Monument Rush",
             "navbar": false,
-            "path": "events/perfect-10.html"
-        },
-        {
-            "title": "1v1 Wicked Bendathlon",
-            "navbar": false,
-            "path": "events/wicked-bendathalon.html"
-        },
-        {
-            "title": "Art Contest",
-            "navbar": false,
-            "path": "events/art-contest.html"
+            "path": "events/monument-rush.html"
         },
         {
             "title": "1v1 Bullet",
@@ -61,79 +131,9 @@
             "path": "events/1v1-bullet.html"
         },
         {
-            "title": "Co-op Monument Rush",
-            "navbar": false,
-            "path": "events/monument-rush.html"
-        },
-        {
-            "title": "Polympics Poster",
-            "navbar": false,
-            "path": "images/polympics_poster.png"
-        },
-        {
-            "title": "Art Poster",
-            "navbar": false,
-            "path": "images/art_poster.png"
-        },
-        {
-            "title": "Skyscraper",
-            "navbar": false,
-            "path": "images/skyscraper.png"
-        },
-        {
-            "title": "1V1 Might",
-            "navbar": false,
-            "path": "images/1v1_might.png"
-        },
-        {
-            "title": "Apocalypse Poster",
-            "navbar": false,
-            "path": "images/apocalypse_poster.png"
-        },
-        {
-            "title": "1V1 Might V2",
-            "navbar": false,
-            "path": "images/1v1_might_v2.png"
-        },
-        {
-            "title": "Polympics Poster Dark",
-            "navbar": false,
-            "path": "images/polympics_poster_dark.png"
-        },
-        {
-            "title": "Bullet",
-            "navbar": false,
-            "path": "images/bullet.png"
-        },
-        {
             "title": "Perfect 10",
             "navbar": false,
-            "path": "images/perfect_10.png"
-        },
-        {
-            "title": "Logo",
-            "navbar": false,
-            "path": "images/logo.png"
-        },
-        {
-            "title": "Monument Rush",
-            "navbar": false,
-            "path": "images/monument_rush.png"
-        },
-        {
-            "title": "2V2 Team Marathon",
-            "navbar": false,
-            "path": "images/2v2_team_marathon.png"
-        },
-        {
-            "title": "Ffa Relay",
-            "navbar": false,
-            "path": "images/ffa_relay.png"
-        },
-        {
-            "title": "Wicked Bender",
-            "navbar": false,
-            "path": "images/wicked_bender.png"
+            "path": "events/perfect-10.html"
         }
     ]
 }
