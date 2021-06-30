@@ -17,11 +17,11 @@ Teams send one squad of three players to compete in a series of 1v3 matches. Eac
 
 ### Tribe Tiers
 
-Tier 1: Cymanti
-Tier 2: Zebasi, Kickoo, Bardur 
-Tier 3: Elyrion, Yadakk, Luxidoor, Imperius 
-Tier 4: Polaris, Ai-Mo, Queztali, Xin-Xi 
-Tier 5: Vengir, Hoodrick, Aquarion, Oumaji
+- Tier 1: Cymanti
+- Tier 2: Zebasi, Kickoo, Bardur 
+- Tier 3: Elyrion, Yadakk, Luxidoor, Imperius 
+- Tier 4: Polaris, Ai-Mo, Queztali, Xin-Xi 
+- Tier 5: Vengir, Hoodrick, Aquarion, Oumaji
 
 If the host chooses Cymanti, but not all the opponents have that tribe, the host must pick a different tribe tier
 
